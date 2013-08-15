@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:id="@+id/fragment_home"
+        xmlns:android="http://schemas.android.com/apk/res/android">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/welcome"
+            android:id="@+id/welcome"
+            android:textSize="45sp"
+            android:layout_marginTop="49dp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:textColor="#767676"
+            android:textStyle="bold|italic"
+            android:typeface="sans"
+            android:textIsSelectable="false"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/read_something"
+            android:id="@+id/textView"
+            android:layout_below="@+id/welcome"
+            android:layout_alignRight="@+id/welcome"
+            android:textSize="15sp"/>
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/searchbox"
+            android:editable="true"
+            android:inputType="text"
+            android:singleLine="true"
+            android:textIsSelectable="false"
+            android:hint="@string/search_here"
+            android:textColorHint="#c4c4c4"
+            android:typeface="sans"
+            android:layout_alignParentEnd="false"
+            android:layout_alignParentStart="false"
+            android:textSize="30sp"
+            android:layout_alignTop="@+id/readButton"
+            android:layout_toLeftOf="@+id/textView"
+            android:layout_alignBottom="@+id/or"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="@string/or"
+            android:id="@+id/or"
+            android:layout_below="@+id/textView"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="65dp"
+            android:gravity="center"/>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/app_name"
+            android:id="@+id/readButton"
+            android:clickable="true"
+            android:singleLine="false"
+            android:textStyle="italic"
+            android:layout_alignBottom="@+id/or"
+            android:layout_toRightOf="@+id/textView"
+            android:textSize="30dp"/>
+
+</RelativeLayout><!-- From: file:/C:/Users/Tim/Documents/AndroidProjects/ReadNowProject/ReadNow/src/main/res/layout-land/fragment_home.xml -->

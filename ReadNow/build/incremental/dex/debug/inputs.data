@@ -1,0 +1,27 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1376605654856 399 0cf5e3c3657584e7ad917e9997f6c0a3adae3beb C:\Users\Tim\Documents\AndroidProjects\ReadNowProject\ReadNow\build\classes\debug\com\tblack\readnow\R$array.class
+1376605654838 11509 c11dc5c37cfe6b7be8671d63b3c98c13f5a242c8 C:\Users\Tim\Documents\AndroidProjects\ReadNowProject\ReadNow\build\classes\debug\com\tblack\readnow\MainActivity.class
+1376605654869 431 119a162359c0ac2c2c3ac40fcc8afea0f79f4911 C:\Users\Tim\Documents\AndroidProjects\ReadNowProject\ReadNow\build\classes\debug\com\tblack\readnow\R$style.class
+1376605654703 2660 6865ea55e858a054563954449165ccba42f77789 C:\Users\Tim\Documents\AndroidProjects\ReadNowProject\ReadNow\build\classes\debug\com\tblack\readnow\homeFragment.class
+1376605654864 521 339d4cc3f131e91ac2ae47ec30259ddc504463a4 C:\Users\Tim\Documents\AndroidProjects\ReadNowProject\ReadNow\build\classes\debug\com\tblack\readnow\R$layout.class
+1376605654824 1221 29ff6e6810c8e5019b39e61b6d0ebb3942d8c424 C:\Users\Tim\Documents\AndroidProjects\ReadNowProject\ReadNow\build\classes\debug\com\tblack\readnow\MainActivity$NetworkReceiver.class
+1376605654860 556 6ba841f3d495a15316a81ba97282390bbcd93359 C:\Users\Tim\Documents\AndroidProjects\ReadNowProject\ReadNow\build\classes\debug\com\tblack\readnow\R$drawable.class
+1376605654857 340 c994212feca4b396b49297cec294101e4d37e084 C:\Users\Tim\Documents\AndroidProjects\ReadNowProject\ReadNow\build\classes\debug\com\tblack\readnow\R$attr.class
+1376605654874 345 6686c79fad34615827d633ca53038da7f5312ec7 C:\Users\Tim\Documents\AndroidProjects\ReadNowProject\ReadNow\build\classes\debug\com\tblack\readnow\BuildConfig.class
+1376605654815 1160 d2345d9bb345d6c794e999892fd357df7be03376 C:\Users\Tim\Documents\AndroidProjects\ReadNowProject\ReadNow\build\classes\debug\com\tblack\readnow\MainActivity$1.class
+1375311370207 490914 3fe75433da602500cc71fcc1c46e5550291dd45d C:\Program Files (x86)\Android\android-studio\sdk\extras\android\m2repository\com\android\support\support-v4\13.0.0\support-v4-13.0.0.jar
+1376605654849 2302 b6aff10060f181acbb75126a1904070c3e6bf83b C:\Users\Tim\Documents\AndroidProjects\ReadNowProject\ReadNow\build\classes\debug\com\tblack\readnow\wikiFragment.class
+1376605654868 874 456ab2a827dc11c328c9fb1ea0a3ffe25a75a9f3 C:\Users\Tim\Documents\AndroidProjects\ReadNowProject\ReadNow\build\classes\debug\com\tblack\readnow\R$string.class
+1376605654865 388 c1931bb2f331b5412dac6a1336c31ebbf4b61bae C:\Users\Tim\Documents\AndroidProjects\ReadNowProject\ReadNow\build\classes\debug\com\tblack\readnow\R$menu.class
+1376605654816 260 d3a1f27c7103732ddbafefbeb10b465a9b5b87db C:\Users\Tim\Documents\AndroidProjects\ReadNowProject\ReadNow\build\classes\debug\com\tblack\readnow\MainActivity$OnSelectedListener.class
+1376605654728 4168 3fdffac4566cf45ca70edd282edbf8256089e90e C:\Users\Tim\Documents\AndroidProjects\ReadNowProject\ReadNow\build\classes\debug\com\tblack\readnow\wikiXmlParser.class
+1376605654862 811 fd045fb5a22c657101fdf683309ba90b1d370f9b C:\Users\Tim\Documents\AndroidProjects\ReadNowProject\ReadNow\build\classes\debug\com\tblack\readnow\R$id.class
+1376605654818 1384 6ef4134b0e5cef7171b729e0e6bc56ff0f6f5318 C:\Users\Tim\Documents\AndroidProjects\ReadNowProject\ReadNow\build\classes\debug\com\tblack\readnow\MainActivity$DrawerItemClickListener.class
+1376605654822 2918 b3a3fd97192c4f0bbcb1dc09549c1e4e0d6faa5c C:\Users\Tim\Documents\AndroidProjects\ReadNowProject\ReadNow\build\classes\debug\com\tblack\readnow\MainActivity$DownloadXmlTask.class
+1376605654720 932 bf7905a9a7b478cce27fc3320136a3113e8acb04 C:\Users\Tim\Documents\AndroidProjects\ReadNowProject\ReadNow\build\classes\debug\com\tblack\readnow\wikiXmlParser$Entry.class
+1376605654722 228 f6c5f8621f8b31ea045fe3696d151bad80a10b3f C:\Users\Tim\Documents\AndroidProjects\ReadNowProject\ReadNow\build\classes\debug\com\tblack\readnow\wikiXmlParser$1.class
+1376605654859 461 655ef555992a100d42ec18cdf084c38eb78b9528 C:\Users\Tim\Documents\AndroidProjects\ReadNowProject\ReadNow\build\classes\debug\com\tblack\readnow\R$dimen.class
+1376605654871 725 deb39fb6ebabeb2586f7bab22da05f284b3bb240 C:\Users\Tim\Documents\AndroidProjects\ReadNowProject\ReadNow\build\classes\debug\com\tblack\readnow\R.class
+1376605654689 310 a2d57500e3808a6185b8c816a2e92e5b94fa6cfa C:\Users\Tim\Documents\AndroidProjects\ReadNowProject\ReadNow\build\classes\debug\com\tblack\readnow\homeFragment$OnSelectedListener.class

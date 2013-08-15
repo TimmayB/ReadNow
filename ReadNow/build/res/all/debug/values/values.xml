@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/C:/Users/Tim/Documents/AndroidProjects/ReadNowProject/ReadNow/src/main/res/values/strings.xml -->
+    <string-array name="drawer_items">
+        <item>Read Now!</item>
+        <item>Home</item>
+        <item>Search</item>
+        <item>Settings</item>
+    </string-array>
+    <!-- From: file:/C:/Users/Tim/Documents/AndroidProjects/ReadNowProject/ReadNow/src/main/res/values/dimens.xml -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/C:/Users/Tim/Documents/AndroidProjects/ReadNowProject/ReadNow/src/main/res/values/strings.xml -->
+    <string name="action_next">Next</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Read-Now!</string>
+    <string name="drawer_close">Close drawer</string>
+    <string name="drawer_open">Open drawer</string>
+    <string name="error_load">Unable to load content, so check yur network connection buddy!</string>
+    <string name="lost_connection">Lost connection.</string>
+    <string name="or">Or</string>
+    <string name="page_title">Wikipedia Title!!!</string>
+    <string name="read_something">Want to read something?</string>
+    <string name="search">Search</string>
+    <string name="search_here">Search Here</string>
+    <string name="updated">Last updated:</string>
+    <string name="welcome">Welcome!</string>
+    <string name="xml_error">Error parsing XML.</string>
+    <!-- From: file:/C:/Users/Tim/Documents/AndroidProjects/ReadNowProject/ReadNow/src/main/res/values/styles.xml -->
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+
+</resources>

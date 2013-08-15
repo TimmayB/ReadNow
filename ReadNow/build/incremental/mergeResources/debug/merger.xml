@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="C:\Users\Tim\Documents\AndroidProjects\ReadNowProject\ReadNow\src\main\res" >
+            <file
+                name="action_search"
+                path="C:\Users\Tim\Documents\AndroidProjects\ReadNowProject\ReadNow\src\main\res\drawable-hdpi\action_search.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="drawer_shadow"
+                path="C:\Users\Tim\Documents\AndroidProjects\ReadNowProject\ReadNow\src\main\res\drawable-hdpi\drawer_shadow.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_drawer"
+                path="C:\Users\Tim\Documents\AndroidProjects\ReadNowProject\ReadNow\src\main\res\drawable-hdpi\ic_drawer.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\Tim\Documents\AndroidProjects\ReadNowProject\ReadNow\src\main\res\drawable-hdpi\ic_launcher.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="navigation_forward"
+                path="C:\Users\Tim\Documents\AndroidProjects\ReadNowProject\ReadNow\src\main\res\drawable-hdpi\navigation_forward.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="action_search"
+                path="C:\Users\Tim\Documents\AndroidProjects\ReadNowProject\ReadNow\src\main\res\drawable-mdpi\action_search.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="drawer_shadow"
+                path="C:\Users\Tim\Documents\AndroidProjects\ReadNowProject\ReadNow\src\main\res\drawable-mdpi\drawer_shadow.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_drawer"
+                path="C:\Users\Tim\Documents\AndroidProjects\ReadNowProject\ReadNow\src\main\res\drawable-mdpi\ic_drawer.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\Tim\Documents\AndroidProjects\ReadNowProject\ReadNow\src\main\res\drawable-mdpi\ic_launcher.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="navigation_forward"
+                path="C:\Users\Tim\Documents\AndroidProjects\ReadNowProject\ReadNow\src\main\res\drawable-mdpi\navigation_forward.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="action_search"
+                path="C:\Users\Tim\Documents\AndroidProjects\ReadNowProject\ReadNow\src\main\res\drawable-xhdpi\action_search.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="drawer_shadow"
+                path="C:\Users\Tim\Documents\AndroidProjects\ReadNowProject\ReadNow\src\main\res\drawable-xhdpi\drawer_shadow.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_drawer"
+                path="C:\Users\Tim\Documents\AndroidProjects\ReadNowProject\ReadNow\src\main\res\drawable-xhdpi\ic_drawer.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\Tim\Documents\AndroidProjects\ReadNowProject\ReadNow\src\main\res\drawable-xhdpi\ic_launcher.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="navigation_forward"
+                path="C:\Users\Tim\Documents\AndroidProjects\ReadNowProject\ReadNow\src\main\res\drawable-xhdpi\navigation_forward.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\Tim\Documents\AndroidProjects\ReadNowProject\ReadNow\src\main\res\drawable-xxhdpi\ic_launcher.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="activity_main"
+                path="C:\Users\Tim\Documents\AndroidProjects\ReadNowProject\ReadNow\src\main\res\layout\activity_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="drawer_list_item"
+                path="C:\Users\Tim\Documents\AndroidProjects\ReadNowProject\ReadNow\src\main\res\layout\drawer_list_item.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_home"
+                path="C:\Users\Tim\Documents\AndroidProjects\ReadNowProject\ReadNow\src\main\res\layout\fragment_home.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_wikipage"
+                path="C:\Users\Tim\Documents\AndroidProjects\ReadNowProject\ReadNow\src\main\res\layout\fragment_wikipage.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_home"
+                path="C:\Users\Tim\Documents\AndroidProjects\ReadNowProject\ReadNow\src\main\res\layout-land\fragment_home.xml"
+                qualifiers="land"
+                type="layout" />
+            <file
+                name="main"
+                path="C:\Users\Tim\Documents\AndroidProjects\ReadNowProject\ReadNow\src\main\res\menu\main.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="C:\Users\Tim\Documents\AndroidProjects\ReadNowProject\ReadNow\src\main\res\values\dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+            </file>
+            <file
+                path="C:\Users\Tim\Documents\AndroidProjects\ReadNowProject\ReadNow\src\main\res\values\strings.xml"
+                qualifiers="" >
+                <string name="search" >Search
+                </string>
+                <string name="action_settings" >Settings
+                </string>
+                <string name="lost_connection" >Lost connection.
+                </string>
+                <string name="read_something" >Want to read something?
+                </string>
+                <string name="search_here" >Search Here
+                </string>
+                <string name="error_load" >Unable to load content, so check yur network connection buddy!
+                </string>
+                <string name="updated" >Last updated:
+                </string>
+                <string name="or" >Or
+                </string>
+                <string name="drawer_close" >Close drawer
+                </string>
+                <string name="action_next" >Next
+                </string>
+                <string name="xml_error" >Error parsing XML.
+                </string>
+                <string name="welcome" >Welcome!
+                </string>
+                <string name="app_name" >Read-Now!
+                </string>
+
+                <string-array name="drawer_items" >
+                    <item>
+Read Now!
+                    </item>
+                    <item>
+Home
+                    </item>
+                    <item>
+Search
+                    </item>
+                    <item>
+Settings
+                    </item>
+                </string-array>
+
+                <string name="page_title" >Wikipedia Title!!!
+                </string>
+                <string name="drawer_open" >Open drawer
+                </string>
+            </file>
+            <file
+                path="C:\Users\Tim\Documents\AndroidProjects\ReadNowProject\ReadNow\src\main\res\values\styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Light" >
+
+                    <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+                    -->
+                </style>
+
+                <style
+                    name="AppTheme"
+                    parent="AppBaseTheme" >
+
+                    <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+                </style>
+            </file>
+            <file
+                path="C:\Users\Tim\Documents\AndroidProjects\ReadNowProject\ReadNow\src\main\res\values-sw720dp-land\dimens.xml"
+                qualifiers="sw720dp-land" >
+                <dimen name="activity_horizontal_margin" >128dp
+                </dimen>
+            </file>
+            <file
+                path="C:\Users\Tim\Documents\AndroidProjects\ReadNowProject\ReadNow\src\main\res\values-v11\styles.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light" >
+
+                    <!-- API 11 theme customizations can go here. -->
+                </style>
+            </file>
+        </source>
+        <source path="C:\Users\Tim\Documents\AndroidProjects\ReadNowProject\ReadNow\build\res\rs\debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="C:\Users\Tim\Documents\AndroidProjects\ReadNowProject\ReadNow\src\debug\res" />
+    </dataSet>
+
+</merger>
